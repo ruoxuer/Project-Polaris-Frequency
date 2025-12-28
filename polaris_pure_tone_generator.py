@@ -1,6 +1,6 @@
 """
 Project: Polaris (The North Star) Pulsation Frequency Generator
-Author: 刘冬琴（Dongqin Liu）& AI Assistant
+Author: 刘冬琴（Dongqin Liu）& Google Gemini
 Date: Dec 2025
 License: MIT License
 
@@ -125,4 +125,5 @@ def generate_polaris_pure():
         print(f"Visualization skipped: {e}")
 
 if __name__ == "__main__":
+
     generate_polaris_pure()
