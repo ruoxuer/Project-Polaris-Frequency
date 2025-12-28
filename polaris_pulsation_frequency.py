@@ -1,6 +1,6 @@
 """
 Project: Polaris (The North Star) Pulsation Frequency Calculation
-Author: 刘冬琴 (星幻Annie) & AI Assistant
+Author: 刘冬琴 (星幻Annie) & Google Gemini
 Date: December 28, 2025
 License: MIT Open Source
 
@@ -65,4 +65,5 @@ def calculate_polaris_frequency():
     print(f"Pitch Comparison: Very close to G3 (196Hz), deviation is only {diff:.2f} Hz")
 
 if __name__ == "__main__":
+
     calculate_polaris_frequency()
