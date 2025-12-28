@@ -1,6 +1,6 @@
 """
 Project: Polaris Pure Breath Audio Generator
-Author: 刘冬琴 (星幻Annie) & AI Assistant & AI Assistant
+Author: 刘冬琴 (星幻Annie) & AI Assistant & Google Gemini
 Date: December 28, 2025
 License: MIT Open Source
 
@@ -88,4 +88,5 @@ def generate_audio():
     print("Features: Pure Sine Wave, No Bells, 8s Breathing Rhythm.")
 
 if __name__ == "__main__":
+
     generate_audio()
